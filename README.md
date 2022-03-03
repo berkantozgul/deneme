@@ -4,5 +4,3 @@
 adasdafg
 asdafadgsg
 asdafsdg
-
-[lorem ipsum](http://google.com)
